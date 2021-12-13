@@ -34,9 +34,9 @@ Let's start building your amazing project today 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mabdullah_se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mabdullah_se" height="30" width="40" /></a>
+<a href="https://twitter.com/mabdullahse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mabdullahse" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9572033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9572033" height="30" width="40" /></a>
-<a href="https://medium.com/@mabdullah-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mabdullah-se" height="30" width="40" /></a>
+<a href="https://medium.com/@mabdullahse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mabdullahse" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
