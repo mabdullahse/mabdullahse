@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabdullah786" alt="mabdullah786" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mabdullahse" target="blank"><img src="https://img.shields.io/twitter/follow/mabdullah_se?logo=twitter&style=for-the-badge" alt="mabdullahse" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mabdullahse" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mabdullahse" /></a> </p>
 
 - 🔭 I’m currently working on [KeepTruckin](https://keeptruckin.com/)
 
