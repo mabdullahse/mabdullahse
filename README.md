@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/mabdullahse" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mabdullahse" /></a> </p>
 
-- 🔭 I’m currently working on [KeepTruckin](https://keeptruckin.com/)
+- 🔭 Recently worked with [Kinesso Malaysia](https://kinesso.com/)
 
 
-- 💬 Ask me about **💡 Creative Meticulous web developer with more than 3 years of front-end & back-end experience and passion for responsive website design working with JavaScript stack involves Angular, ReactJS and NodeJS.
+- 💬 Ask me about **💡 Creative Meticulous web developer with more than 4.5 years of front-end & back-end experience and passion for responsive website design working with JavaScript stack involves Angular, ReactJS and NodeJS.
 
 Who I'm?
-✍️ Author of Angular package which cross 3k+ downloads.
+✍️ Author of Angular package which cross 5k+ downloads.
 🥇Gold Medalist in BS Software Engineering.
-💯 Scored with 1.8K+ points on Stack overflow.
-📚 Medium Blogs exceeds 3K+ reads.
+💯 Scored with 2.8K+ points on Stack overflow.
+📚 Medium Blogs exceeds 7K+ reads.
 🏆 85% marks achieved in AWS Certified Cloud Practitioner.
 
 Top tech Giants:
@@ -25,7 +25,7 @@ Associated with market leaders like Keeptruckin,  ConnectWise, LLC, VentureDive
 Let's start building your amazing project today 🚀**
 
 - 📫 How to reach me **mabdullah.se@gmail.com**
-
+- 📱 Contact me at **+923054314377**
 - ⚡ Fun fact **kind of Boring 😋**
 
 ### Blogs posts
