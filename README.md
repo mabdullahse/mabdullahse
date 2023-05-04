@@ -26,7 +26,6 @@ Let's start building your amazing project today 🚀**
 
 - 📫 How to reach me **mabdullah.se@gmail.com**
 - 📱 Contact me at **+923054314377**
-- ⚡ Fun fact **kind of Boring 😋**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
