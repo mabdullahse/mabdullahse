@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mabdullahse" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mabdullahse" /></a> </p>
 
-- 🔭 Recently worked with [Kinesso Malaysia](https://kinesso.com/)
 
 
 - 💬 Ask me about **💡 Creative Meticulous web developer with more than 4.5 years of front-end & back-end experience and passion for responsive website design working with JavaScript stack involves Angular, ReactJS and NodeJS.
