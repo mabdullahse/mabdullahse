@@ -22,8 +22,8 @@ Associated with market leaders like Keeptruckin,  ConnectWise, LLC, VentureDive
 
 Let's start building your amazing project today 🚀**
 
-- 📫 How to reach me **mabdullahch555@gmail.com**
-- 📱 Contact me at whatsapp **+923054314377** **+601162334073** 
+- 📫 How to reach me **mabdullah.se@gmail.com**
+- 📱 Contact me at whatsapp **+923054314377** 
 
 
 ### Blogs posts
